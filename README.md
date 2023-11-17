@@ -4,7 +4,7 @@ WonJun Moon, SangEek Hyun, SuBeen Lee, Jae-Pil Heo
 
 Sungkyunkwan University
 
-[[Arxiv](https://arxiv.org/abs/2303.13874)]
+[[Arxiv](https://arxiv.org/abs/2311.08835)]
 
 ----------
 ## To be updated
@@ -47,11 +47,11 @@ Else, you can change the data directory by modifying 'feat_root' in shell script
 │   └── standalone_eval
 │   └── utils
 ├── features
-│   └── qvhighlight
-│   └── charades
-│   └── tacos
-│   └── tvsum
-│   └── youtube_uni
+    └── qvhighlight
+    └── charades
+    └── tacos
+    └── tvsum
+    └── youtube_uni
 
 ```
 
