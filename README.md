@@ -1,10 +1,9 @@
 # CG-DETR : Calibrating the Query-Dependency of Video Representation via Correlation-guided Attention for Video Temporal Grounding
-by 
-WonJun Moon, SangEek Hyun, SuBeen Lee, Jae-Pil Heo
+ 
+> WonJun Moon, SangEek Hyun, SuBeen Lee, Jae-Pil Heo <br>
+> Sungkyunkwan University
 
-Sungkyunkwan University
-
-[[Arxiv](https://arxiv.org/abs/2311.08835)]
+##### [Arxiv](https://arxiv.org/abs/2311.08835)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/correlation-guided-query-dependency/highlight-detection-on-qvhighlights)](https://paperswithcode.com/sota/highlight-detection-on-qvhighlights?p=correlation-guided-query-dependency)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/correlation-guided-query-dependency/moment-retrieval-on-qvhighlights)](https://paperswithcode.com/sota/moment-retrieval-on-qvhighlights?p=correlation-guided-query-dependency)
@@ -39,7 +38,7 @@ We validate the superiority of CG-DETR with the state-of-the-art results on vari
 
 ----------
 
-## Datasets & Requirements
+## Datasets
 <b>QVHighlights</b> : Download official feature files for QVHighlights dataset from Moment-DETR. 
 
 Download [moment_detr_features.tar.gz](https://drive.google.com/file/d/1Hiln02F1NEpoW8-iPZurRyi-47-W2_B9/view?usp=sharing) (8GB).
@@ -76,9 +75,13 @@ Otherwise, you can change the data directory by modifying 'feat_root' in shell s
 
 ```
 
-<b> Dependencies </b>
+## Installation
 Python version 3.7 is required.
-To download the packages we used for training, run the command below:
+1. Clone this repository.
+```
+git clone https://github.com/wjun0830/CGDETR.git
+```
+2. Download the packages we used for training.
 ```
 pip install -r requirements.txt
 ```
