@@ -9,6 +9,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/correlation-guided-query-dependency/moment-retrieval-on-qvhighlights)](https://paperswithcode.com/sota/moment-retrieval-on-qvhighlights?p=correlation-guided-query-dependency)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/correlation-guided-query-dependency/highlight-detection-on-tvsum)](https://paperswithcode.com/sota/highlight-detection-on-tvsum?p=correlation-guided-query-dependency)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/correlation-guided-query-dependency/highlight-detection-on-youtube-highlights)](https://paperswithcode.com/sota/highlight-detection-on-youtube-highlights?p=correlation-guided-query-dependency)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/correlation-guided-query-dependency/natural-language-moment-retrieval-on-tacos)](https://paperswithcode.com/sota/natural-language-moment-retrieval-on-tacos?p=correlation-guided-query-dependency)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/correlation-guided-query-dependency/moment-retrieval-on-charades-sta)](https://paperswithcode.com/sota/moment-retrieval-on-charades-sta?p=correlation-guided-query-dependency)
 
 <p align="center">
