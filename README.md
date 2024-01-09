@@ -160,6 +160,7 @@ TACoS | [checkpoints](https://drive.google.com/drive/folders/1r6sB-9KPf5awkhmx-i
 TVSum | [checkpoints](https://drive.google.com/drive/folders/1RXZxpe__tUidoiP4FWJuZVQy84iwKyti?usp=sharing)
 Youtube-HL | [checkpoints](https://drive.google.com/drive/folders/1Mbri6RVb9W31gLfpvQlGXGasg5SPiet2?usp=sharing)
 QVHighlights w/ PT (47.97 mAP) | [checkpoints](https://drive.google.com/drive/folders/1iH4Jfg_5rDA-N1nkg_iqRk-mIcmQblQW?usp=sharing)
+QVHighlights only CLIP | [checkpoints](https://drive.google.com/drive/folders/1LMMY349TKR7wlAEqHxlrsEGULHRIN21o?usp=sharing)
  
 ## 📖 BibTeX 
 If you find the repository or the paper useful, please use the following entry for citation.
