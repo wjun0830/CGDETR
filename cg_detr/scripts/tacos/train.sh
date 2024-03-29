@@ -7,7 +7,7 @@ exp_id=exp
 
 ######## data paths
 train_path=data/tacos/train.jsonl
-eval_path=data/tacos/val.jsonl
+eval_path=data/tacos/test.jsonl
 eval_split_name=val
 
 ######## setup video+text features
