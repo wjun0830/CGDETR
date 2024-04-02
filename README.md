@@ -44,6 +44,8 @@ We validate the superiority of CG-DETR with the state-of-the-art results on vari
 ```
 tar -xf path/to/moment_detr_features.tar.gz
 ```
+If inaccessible, then download from
+> <b> [QVHighlight](https://drive.google.com/file/d/1LXsZZBsv6Xbg_MmNQOezw0QYKccjcOkP/view?usp=sharing)</b> 9.34GB. <br>
 
 For other datasets, we provide extracted features:
 
