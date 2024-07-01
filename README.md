@@ -125,6 +125,12 @@ bash cg_detr/scripts/youtube_uni/train.sh
 ```
 Best results are stored in 'results_[domain_name]/best_metric.jsonl'.
 
+### QVHighlights w/ Pretraining Training
+Training can be executed by running the shell below:
+```
+bash cg_detr/scripts/train.sh --num_dummies 45 --num_prompts 1 --total_prompts 10 --max_q_l 75 --resume pt_checkpoints/model_e0009.ckpt --seed 2018
+```
+Checkpoints for pretrained checkpoint 'model_e0009.ckpt' is available [here](https://drive.google.com/drive/folders/1iH4Jfg_5rDA-N1nkg_iqRk-mIcmQblQW?usp=sharing).
 
 ## 👀 QVHighlights Evaluation and Codalab Submission
 Once the model is trained, `hl_val_submission.jsonl` and `hl_test_submission.jsonl` can be yielded by running inference.sh.
