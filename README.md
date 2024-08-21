@@ -1,6 +1,6 @@
 # CG-DETR : Calibrating the Query-Dependency of Video Representation via Correlation-guided Attention for Video Temporal Grounding
- 
-> WonJun Moon, SangEek Hyun, SuBeen Lee, Jae-Pil Heo <br>
+ Correlation-Guided Query-Dependency Calibration for Video Temporal Grounding
+> WonJun Moon, Sangeek Hyun, SuBeen Lee, Jae-Pil Heo <br>
 > Sungkyunkwan University
 
 ##### [Arxiv](https://arxiv.org/abs/2311.08835)
